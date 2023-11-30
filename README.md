@@ -1,6 +1,6 @@
 # A Docker Container for GeoDaCenter's spatial_access package
 
-## Download the Dockerfile and follow the instructions below to create an environment for running the GeoDaCenter's spatial_access package which is available at: https://github.com/GeoDaCenter/spatial_access
+### Download the Dockerfile and follow the instructions below to create an environment for running the GeoDaCenter's spatial_access package which is available at: https://github.com/GeoDaCenter/spatial_access
 
 
 # Build docker image
