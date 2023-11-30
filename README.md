@@ -25,7 +25,7 @@ Copy URL from jupyter notebook and paste it to a web browser.
 
 # Check URL
 
-Run from host
+# Run from host
 ```
 docker exec -it spatial_access bash
 conda activate spatial_access
