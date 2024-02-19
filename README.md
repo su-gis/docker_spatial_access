@@ -23,7 +23,7 @@ conda activate spatial_access
 jupyter notebook --ip 0.0.0.0 --port 9000 --no-browser --allow-root
 ```
 
-# Restart the created docker container (Do it for the second time)
+# Restart the created docker container (Do it from the second time)
 
 ```
 docker start spatial_access
